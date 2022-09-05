@@ -1,0 +1,1 @@
+# QRcodeGerador
